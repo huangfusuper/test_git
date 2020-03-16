@@ -9,5 +9,7 @@ public class TestGitOpt {
 
         System.out.println("模拟冲突");
 
+        System.out.println("本地代码");
+
     }
 }
