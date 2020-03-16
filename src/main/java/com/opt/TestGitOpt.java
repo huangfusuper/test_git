@@ -7,5 +7,6 @@ package com.opt;
 public class TestGitOpt {
     public static void main(String[] args) {
         System.out.println("模拟冲突1");
+        System.out.println("模拟冲突1111");
     }
 }
